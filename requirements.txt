@@ -1,0 +1,6 @@
+datasets
+mlx
+transformers
+numpy
+mlx-lm
+matplotlib
